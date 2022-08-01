@@ -2,7 +2,7 @@
     padding: 15px;
 }
 div{
-    background-color:sandybrown;
+    background-color:#fcb77b;
     text-align: center;
 }
 /*Estilo FotodePerfil*/
@@ -12,7 +12,7 @@ div{
         width: 10%;
         border-radius: 50%;
         left: 20px;
-        top: 450px;
+        top: 500px;
     }
 }
 
