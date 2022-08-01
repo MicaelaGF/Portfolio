@@ -1,0 +1,35 @@
+.row{
+    padding: 15px;
+}
+div{
+    background-color:sandybrown;
+    text-align: center;
+}
+/*Estilo FotodePerfil*/
+@media (min-width: 577px){
+    #FotodePerfil{
+        position: absolute;
+        width: 10%;
+        border-radius: 50%;
+        left: 20px;
+        top: 450px;
+    }
+}
+
+@media (max-width: 576px){
+    #FotodePerfil{
+        position: absolute;
+        width: 25%;
+        border-radius: 50%;
+        left: 40%;
+        top: 300px;
+    }
+}
+/*nombre*/
+#nombre {
+    font-weight: bold;
+    margin-top: 10%;
+    
+    
+}
+
